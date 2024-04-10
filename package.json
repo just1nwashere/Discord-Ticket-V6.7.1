@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@akarui/aoi.db": "^2.2.7",
+    "@akarui/aoi.music": "^2.4.0",
+    "aoi.js": "^6.7.1",
+    "aoi.loader": "^1.0.3",
+    "gamedig": "^5.0.0-beta.2"
+  },
+  "name": "bot-servers-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
